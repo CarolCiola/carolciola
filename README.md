@@ -6,10 +6,10 @@ https://github.com/hideraldus13/github-emoji
 https://gist.github.com/rxaviers/7360908
 -->
 
-- :rocket: Sou analista de testes na <a href="https://invillia.com/global-growth-framework/">Invillia</a>
-- :musical_note: Apaixonada por música e artes!
-- :books: Tenho alguns artigos no <a href="https://medium.com/@carol.ciola">Medium</a>...
-- :speech_balloon: Converse comigo sobre qualidade de software e automação.
-- :bulb: Atualmente estudando sobre Cypress, APIs, mundo mobile e acessibilidade.
+:rocket: Sou analista de testes na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
+:musical_note: Apaixonada por música e artes!</br>
+:books: Tenho alguns artigos no <a href="https://medium.com/@carol.ciola">Medium</a>...</br>
+:speech_balloon: Converse comigo sobre qualidade de software e automação.</br>
+:bulb: Atualmente estudando sobre Cypress, APIs, mundo mobile e acessibilidade.</br>
 
 
