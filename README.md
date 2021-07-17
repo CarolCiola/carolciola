@@ -6,7 +6,7 @@ https://gist.github.com/rxaviers/7360908
 
 <h2> :wave: Olá mundo!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> -->
 
 Analista de testes, apaixonada por música e artes :musical_note:, gosto de aprender coisas novas!
 
