@@ -8,7 +8,7 @@ https://gist.github.com/rxaviers/7360908
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> -->
 
-Analista de testes, apaixonada por música e artes :musical_note:, gosto de aprender coisas novas!
+Meu nome é Carol, sou analista de testes, apaixonada por música e artes :musical_note:, gosto de aprender coisas novas!
 
 * :rocket: QA na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
 * :books: Leia meus artigos no <a href="https://carolciola.medium.com/">Medium</a>...</br>
