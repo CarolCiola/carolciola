@@ -13,7 +13,7 @@ Meu nome é Carol, sou analista de testes, apaixonada por música e artes :music
 * :rocket: QA na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a>...</br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação.</br>
-* :bulb: Estudando sobre diversos temas, mas principalmente Cypress.io, APIs, mundo mobile e acessibilidade.</br>
+* :bulb: Estudando sobre diversos temas, mas principalmente Cypress.io, APIs e acessibilidade.</br>
 
 
 
