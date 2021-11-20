@@ -10,7 +10,7 @@ https://gist.github.com/rxaviers/7360908
 
 Meu nome é Carol, sou analista de testes, apaixonada por música e artes :musical_note:, gosto de aprender coisas novas!
 
-* :rocket: Sou QA na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
+* :rocket: Sou especialista em qualidade de software na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação.</br>
 * :bulb: Estudando sobre diversos temas, mas principalmente Cypress.io, APIs e acessibilidade.</br>
