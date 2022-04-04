@@ -2,6 +2,7 @@
 **CarolCiola/carolciola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/hideraldus13/github-emoji
 https://gist.github.com/rxaviers/7360908
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
 <h2> :wave: Olá mundo!</h2>
