@@ -11,7 +11,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 Meu nome é Carol, sou apaixonada por música e artes :musical_note: , gosto de aprender coisas novas!
 
-* :rocket: Sou especialista em qualidade de software na <a href="https://invillia.com/global-growth-framework/">Invillia</a></br>
+* :rocket: Sou especialista em qualidade de software</br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação de testes</br>
 * :bulb: Estou estudando sobre diversos temas, mas principalmente Cypress.io, APIs e acessibilidade</br>
