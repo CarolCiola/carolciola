@@ -14,7 +14,7 @@ Meu nome é Carol, sou apaixonada por música e artes :musical_note: , gosto de 
 * :rocket: Sou especialista em qualidade de software</br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação de testes</br>
-* :bulb: Estou estudando sobre diversos temas, mas principalmente Cypress.io</br>
+* :bulb: Estou estudando sobre diversos temas, mas principalmente arquitetura AWS e Cypress</br>
 
 
 
