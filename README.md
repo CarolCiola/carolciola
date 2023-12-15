@@ -31,6 +31,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 
 <h3>Some tools:<br>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+<img height="45em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 <img height="45em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
@@ -47,7 +48,8 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
 <img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
-<img height="40em" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667"/>
+<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+<img height="40em" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
@@ -55,6 +57,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+<img height="50em" src="https://private-user-images.githubusercontent.com/19180175/279444174-3b371807-db7c-45b4-8720-c0cfc901680a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2NTMyMDcsIm5iZiI6MTcwMjY1MjkwNywicGF0aCI6Ii8xOTE4MDE3NS8yNzk0NDQxNzQtM2IzNzE4MDctZGI3Yy00NWI0LTg3MjAtYzBjZmM5MDE2ODBhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE1VDE1MDgyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5ZGI0YjRhMDJhNDZlNjEwNDUzODM0OWY3MzQ4NTVmODdlMzg1ZTI4ZGNhMTk0Y2Y5ZmI1Mjc2OWMzOGYwMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JNm8vxF1OY_r37FCqzn60gb7ych_8ORo1O1PbxxbPAE"/>
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
  
 <h3>Contact:<br><br>
