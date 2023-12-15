@@ -35,11 +35,11 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 <img height="45em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-<img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg"/>
+<img height="45em" src="https://www.nuget.org/profiles/nuget/avatar?imageSize=512"/>
 <img height="45em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="45em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
 <img height="45em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-<img height="45em" src="https://www.browserstack.com/docs/static/img/bstack-icon.svg"/>
+<img height="45em" src="https://www.mantisbt.org/images/mantis_logo_262x90.png"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
