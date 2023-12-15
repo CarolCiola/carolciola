@@ -13,7 +13,7 @@ https://github.com/devicons/devicon/tree/master/icons
 
 I'm Carol, love music and arts, amazed to learn about new stuff!
 
-* :rocket: Working as Quality Assurance Software Analyst</br>
+* :rocket: Working as Software Quality Assurance Analyst</br>
 * :books: I have some articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Talk to me about software quality and test automation</br>
 * :bulb: Studying about several themes, specially Cypress</br>
