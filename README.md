@@ -30,14 +30,14 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
  </div>
 
 <h3>Some tools:<br>
-<img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+<img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
-<img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+<img height="45em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg"/>
-<img height="50em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
-<img height="50em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
-<img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img height="45em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
+<img height="45em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
+<img height="45em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
