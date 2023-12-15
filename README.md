@@ -67,7 +67,7 @@ I'm Carol, in love with music and arts, love to learn about new stuff!
 
 <h3>Contact:<br><br>
 <a href="https://www.linkedin.com/in/carol-ciola">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  
  <a href="mailto:carol.ciola@gmail.com">
