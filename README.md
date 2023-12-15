@@ -5,16 +5,16 @@ https://gist.github.com/rxaviers/7360908
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
-<h2> :wave: Olá mundo!</h2>
+<h2> :wave: Hello world!</h2>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> -->
 
-Meu nome é Carol, sou apaixonada por música e artes, gosto de aprender coisas novas!
+I'm Carol, in love with music and arts, love to learn about new stuff!
 
-* :rocket: Sou QA</br>
-* :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
-* :speech_balloon: Converse comigo sobre qualidade de software e automação de testes</br>
-* :bulb: Estou estudando sobre diversos temas, mas principalmente Cypress</br>
+* :rocket: Quality software analyst</br>
+* :books: I have some articles on <a href="https://carolciola.medium.com/">Medium</a></br>
+* :speech_balloon: Talk to me about software quality and test automation</br>
+* :bulb: Studying about several themes, specially Cypress</br>
 
 <div>
 <a href="https://github.com/cciola">
@@ -22,20 +22,12 @@ Meu nome é Carol, sou apaixonada por música e artes, gosto de aprender coisas 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h3>Languages and Tools:<br><br>
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img height="40em" src="https://camo.githubusercontent.com/b90c7db8000f98e4928843781f24635112faa72391b8be687f438b9dd282fce3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351437550414849374c73525857636261465239695a764358455f56706d70414e324d734126757371703d434155"/>
-
+<h3>Languages and tools<br><br>
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-
 <img height="31em" width="60em"  src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-
-
 <img height="31em" width="60em" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/>
-
 <img height="31em" idth="60em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="31em" idth="60em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  
