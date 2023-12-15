@@ -38,10 +38,13 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg"/>
 <img height="45em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="45em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
-<img height="45em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img height="45em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img height="45em" src="https://www.browserstack.com/docs/static/img/bstack-icon.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+<img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/5/54/K6-load-testing-tool-logo.svg"/>
+<img height="45em" src="https://jmeter.apache.org/images/logo.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
