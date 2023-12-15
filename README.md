@@ -18,6 +18,7 @@ I'm Carol, in love with music and arts, love to learn about new stuff!
 * :speech_balloon: Talk to me about software quality and test automation</br>
 * :bulb: Studying about several themes, specially Cypress</br>
 
+------
 <!--
 <div>
 <a href="https://github.com/cciola">
@@ -28,7 +29,7 @@ I'm Carol, in love with music and arts, love to learn about new stuff!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h3>Languages and tools<br>
+<h3>Languages and tools:<br><br>
 <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
@@ -38,34 +39,33 @@ I'm Carol, in love with music and arts, love to learn about new stuff!
 <img height="50em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 
-<h3>Repositories<br>
+<h3>Repositories:<br><br>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 
-<h3>CI/CD<br>
+<h3>CI/CD and containers:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 
-<h3>Cloud<br>
+<h3>Cloud:<br><br>
 <img height="45em" src=""/>
 
-<h3>Testing tools<br><br>
+<h3>Testing tools:<br><br>
 <img height="31em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>
 
-<h3>IDEs<br>
+<h3>IDEs:<br><br>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
 
-<h3>Gestão<br>
+<h3>Managing process:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 
-<h3>Databases<br><br>
+<h3>Databases<br><br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 
-<H3>Contact<br><br>
-  
+<h3>Contact:<br><br>
 <a href="https://www.linkedin.com/in/carol-ciola">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
