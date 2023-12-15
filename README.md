@@ -22,12 +22,6 @@ Meu nome é Carol, sou apaixonada por música e artes, gosto de aprender coisas 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<a href="https://github.com/lucascoutoandrade">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascoutoandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascoutoandrade&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-
 <h3>Languages and Tools:<br><br>
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img height="40em" src="https://camo.githubusercontent.com/b90c7db8000f98e4928843781f24635112faa72391b8be687f438b9dd282fce3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351437550414849374c73525857636261465239695a764358455f56706d70414e324d734126757371703d434155"/>
