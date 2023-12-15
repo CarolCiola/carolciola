@@ -29,7 +29,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h3>Languages and tools:<br><br>
+<h3>Languages & tools:<br><br>
 <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
@@ -38,31 +38,38 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="50em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+
+<img height="45em" src=""/>
+<img height="45em" src=""/>
+<img height="45em" src=""/>
+
 
 <h3>Repositories:<br><br>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 
-<h3>CI/CD and containers:<br><br>
+<h3>CI/CD & containers:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 
 <h3>Cloud:<br><br>
-<img height="45em" src=""/>
-
+<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+ 
 <h3>Testing tools:<br><br>
-<img height="31em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>
-
+<img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
+<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg"/>
+ 
 <h3>IDEs:<br><br>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
 
-<h3>Managing process:<br><br>
+<h3>Managing tools:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 
-<h3>Databases<br><br><br>
+<h3>Databases:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 
 <h3>Contact:<br><br>
@@ -75,10 +82,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
  </a>
 
 <!--
-<img height="40em" src="https://camo.githubusercontent.com/e79a528b9fd331b7d2f9c3a77201bee93403801e3d43c2d5c24721e2b2ef87bc/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476353773843634157324b5667544e51714a736935326944316471633379384b36527369564126757371703d434155"/>
-<img height="40em" src="https://camo.githubusercontent.com/6241db6e858ceba3740c73f0c6ab1f78e1218ccd3db986ba2dee7d2b186acb3d/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354377a746f36487538417142325639743067472d69637a4d536b6d4f4654664439572d535a485365797548546c504c62434a46326c63527635454665686d4465614253566b26757371703d434155"/>
-
-<img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
+<img height="40em" src=""/>
 <img height="40em" src="https://camo.githubusercontent.com/57edd5bbf71e1fc0601129726904fc901c7e52c685bbcc88ce01cc33bc3ddad1/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763547a6545426b5054352d5a7743593732525476554e3950644c5a4d3243433056674b686726757371703d434155"/>
 <img height="40em" src="https://camo.githubusercontent.com/f0076eb283898f7e44436ac3ee3b936162a46eb4be3cc84ecb1aa91241b0ff49/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3337322f3637342f706e672d7472616e73706172656e742d61707069756d2d746573742d6175746f6d6174696f6e2d736f6674776172652d74657374696e672d73656c656e69756d2d63616c61626173682d707572706c652d76696f6c65742d746578742d7468756d626e61696c2e706e67"/>
 
