@@ -39,11 +39,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
-
-<img height="45em" src=""/>
-<img height="45em" src=""/>
-<img height="45em" src=""/>
-
+<img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
 
 <h3>Repositories:<br><br>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
@@ -71,8 +67,8 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 
 <h3>Databases:<br><br>
-<img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
-
+<img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+ 
 <h3>Contact:<br><br>
 <a href="https://www.linkedin.com/in/carol-ciola">
  <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -87,10 +83,5 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="40em" src="https://camo.githubusercontent.com/f0076eb283898f7e44436ac3ee3b936162a46eb4be3cc84ecb1aa91241b0ff49/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3337322f3637342f706e672d7472616e73706172656e742d61707069756d2d746573742d6175746f6d6174696f6e2d736f6674776172652d74657374696e672d73656c656e69756d2d63616c61626173682d707572706c652d76696f6c65742d746578742d7468756d626e61696c2e706e67"/>
 
 <img height="40em" src="https://camo.githubusercontent.com/75ef5b9c472b5a9b757529f40cd97feb920189db690a95f99a5a5c987df453ef/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763524d7574753067767164774c50456a4b66636365765143546a5862506752425a6942427726757371703d434155"/>
-
-
-  
-
-https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg
 
 -->
