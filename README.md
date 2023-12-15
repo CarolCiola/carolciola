@@ -11,7 +11,7 @@ https://github.com/devicons/devicon/tree/master/icons
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> -->
 
-I'm Carol, love music and arts, amazed to learn about new stuff!
+I'm Carol, love music, arts and learning about new stuff!
 
 * :rocket: Working as Software Quality Assurance Analyst</br>
 * :books: I have some articles on <a href="https://carolciola.medium.com/">Medium</a></br>
