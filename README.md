@@ -3,6 +3,7 @@
 https://github.com/hideraldus13/github-emoji
 https://gist.github.com/rxaviers/7360908
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 <h2> :wave: Hello world!</h2>
@@ -35,25 +36,16 @@ I'm Carol, in love with music and arts, love to learn about new stuff!
   
 
 <h3>Cloud:<br><br>
-  
-<img height="45em" src="https://static.redhat.com/libs/redhat/brand-assets/2/products/red-hat-openshift.svg"/>
-
- <!-- https://licensecounter.jp/devops-hub/OpenShift_Logo.png-->
-  
-
-<h3>CI/CD:<br><br>
-  
-  
+<img height="45em" src="https://aws.amazon.com/pt/?nc2=h_lg"/>
  
-<img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"/>
+ <h3>CI/CD:<br><br>
 
+<img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"/>
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img height="40em" src="https://camo.githubusercontent.com/e79a528b9fd331b7d2f9c3a77201bee93403801e3d43c2d5c24721e2b2ef87bc/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476353773843634157324b5667544e51714a736935326944316471633379384b36527369564126757371703d434155"/>
 <img height="40em" src="https://camo.githubusercontent.com/6241db6e858ceba3740c73f0c6ab1f78e1218ccd3db986ba2dee7d2b186acb3d/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354377a746f36487538417142325639743067472d69637a4d536b6d4f4654664439572d535a485365797548546c504c62434a46326c63527635454665686d4465614253566b26757371703d434155"/>
 
-
-
-<h3>Testing Tools:<br><br>
+<h3>Testing tools<br><br>
 
 <img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
 <img height="40em" src="https://camo.githubusercontent.com/57edd5bbf71e1fc0601129726904fc901c7e52c685bbcc88ce01cc33bc3ddad1/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763547a6545426b5054352d5a7743593732525476554e3950644c5a4d3243433056674b686726757371703d434155"/>
