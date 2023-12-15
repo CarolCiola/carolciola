@@ -29,7 +29,7 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h3>Languages & tools:<br><br>
+<h3>Some tools:<br>
 <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
@@ -40,34 +40,22 @@ I'm Carol, love music and arts, amazed to learn about new stuff!
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-
-<h3>Repositories:<br><br>
+<img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="50em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
-
-<h3>CI/CD & containers:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-
-<h3>Cloud:<br><br>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
- 
-<h3>Testing tools:<br><br>
 <img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
 <img height="40em" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg"/>
- 
-<h3>IDEs:<br><br>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
-
-<h3>Managing tools:<br><br>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
 <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
-
-<h3>Databases:<br><br>
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+<img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
  
 <h3>Contact:<br><br>
 <a href="https://www.linkedin.com/in/carol-ciola">
