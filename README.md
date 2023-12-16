@@ -9,7 +9,14 @@
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
 * 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
 
+<a href="https://www.linkedin.com/in/carol-ciola"> <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:carol.ciola@gmail.com">
+<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 ## Tecnologias
+<p>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="40em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
@@ -43,17 +50,12 @@
 <img height="40em" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 
-## Contato
-<a href="https://www.linkedin.com/in/carol-ciola"> <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:carol.ciola@gmail.com">
-<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <div>
 <a href="https://github.com/cciola">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
+ 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+ 
