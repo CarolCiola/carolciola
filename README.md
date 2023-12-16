@@ -12,20 +12,13 @@ https://github.com/devicons/devicon/tree/master/icons
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
 -->
-
-<a href="https://www.linkedin.com/in/carol-ciola">
- <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="mailto:carol.ciola@gmail.com">
-<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
  
 <!--
 Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 -->
 
 
-<h3>Sobre mim <br></h3>
+<h2>Sobre mim </h2>
 * 👩🏻‍💻 Atualmente sou Analista de Automação de Testes SR @ Núclea</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
@@ -38,8 +31,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
  </div>
  -->
 
-
-<h3>Ferramentas e linguagens<br>
+<h2>Tecnologias</h2>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="40em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
@@ -55,6 +47,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/5/54/K6-load-testing-tool-logo.svg"/>
 <img height="40em" src="https://jmeter.apache.org/images/logo.svg"/>
+<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
 <img height="40em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="40em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
@@ -69,12 +62,17 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
+<img height="40em" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
-<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
 
-<!--
-<h3>Contato<br><h3>
--->
+<h2>Contato<br></h2>
+<a href="https://www.linkedin.com/in/carol-ciola">
+<img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ 
+<a href="mailto:carol.ciola@gmail.com">
+<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
