@@ -1,37 +1,21 @@
-<!--
-**CarolCiola/carolciola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/hideraldus13/github-emoji
-https://gist.github.com/rxaviers/7360908
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://github.com/devicons/devicon/tree/master/icons
--->
-
-<h2> 👋 Olá, mundo!</h2>
+# 👋 Olá, mundo!
  
-<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
--->
  
-<!--
 Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
--->
 
-
-<h2>Sobre mim </h2>
+## Sobre mim 
 * 👩🏻‍💻 Atualmente sou Analista de Automação de Testes SR @ Núclea</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
 * 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
 
-<!--
 <div>
 <a href="https://github.com/cciola">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
- -->
 
-<h2>Tecnologias</h2>
+## Tecnologias
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="40em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
@@ -65,10 +49,10 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="40em" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 
-<h2>Contato<br></h2>
+## Contato
 <a href="https://www.linkedin.com/in/carol-ciola">
 <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
+</a>
  
 <a href="mailto:carol.ciola@gmail.com">
 <img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
