@@ -13,6 +13,13 @@ https://github.com/devicons/devicon/tree/master/icons
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
 -->
 
+<a href="https://www.linkedin.com/in/carol-ciola">
+ <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="mailto:carol.ciola@gmail.com">
+<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ 
 <!--
 Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 -->
@@ -64,16 +71,10 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
- 
+
+<!--
 <h3>Contato<br><h3>
-<a href="https://www.linkedin.com/in/carol-ciola">
- <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="mailto:carol.ciola@gmail.com">
-<img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
- 
----------
+-->
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
