@@ -4,7 +4,7 @@
 
 ## Sobre mim
 * 🙋🏻‍♀️ Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas!
-* 👩🏻‍💻 Atualmente sou Analista de Automação de Testes SR @ Núclea</br>
+* 👩🏻‍💻 Atualmente estou trabalhando na Núclea</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
 * 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
