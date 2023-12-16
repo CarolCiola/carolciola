@@ -13,7 +13,7 @@ https://github.com/devicons/devicon/tree/master/icons
 
 Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 
-* :rocket: Sou analista as Software Quality Assurance Analyst</br>
+* :rocket: Sou QA Senior</br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação de testes</br>
 * :bulb: Estou estudando sobre diversos assuntos, especialmente Cypress</br>
