@@ -1,13 +1,4 @@
 # 👋 Olá, mundo!
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
-
-## Sobre mim
-* 🙋🏻‍♀️ Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas!
-* 👩🏻‍💻 Atualmente estou trabalhando na Núclea</br>
-* 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
-* 💬 Converse comigo sobre qualidade de software e automação de testes</br>
-* 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
 
 <a href="https://www.linkedin.com/in/carol-ciola"> <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -15,23 +6,25 @@
 <img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+* 🙋🏻‍♀️ Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas!
+* 👩🏻‍💻 Atualmente estou trabalhando na Núclea</br>
+* 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
+* 💬 Converse comigo sobre qualidade de software e automação de testes</br>
+* 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
+
 ## Tecnologias
 <p>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="40em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
-<img height="60em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height="40em" src="https://www.nuget.org/profiles/nuget/avatar?imageSize=512"/>
 <img height="40em" width="60em"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="40em" width="60em" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-<img height="40em" src="https://www.mantisbt.org/images/mantis_logo_262x90.png"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-<img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/5/54/K6-load-testing-tool-logo.svg"/>
-<img height="40em" src="https://jmeter.apache.org/images/logo.svg"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
 <img height="40em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="40em" idth="60em" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
@@ -46,13 +39,14 @@
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
-<img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 <img height="40em" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
 <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 
-<div>
-<a href="https://github.com/cciola">
+ <div>
+  <a href="https://github.com/cciola">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
- 
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
