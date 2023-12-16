@@ -62,7 +62,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
  
-<h3>Contato:<br>
+<h3>Contato:<br><br>
 <a href="https://www.linkedin.com/in/carol-ciola">
  <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
