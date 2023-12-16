@@ -16,7 +16,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 * :rocket: Sou analista as Software Quality Assurance Analyst</br>
 * :books: Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * :speech_balloon: Converse comigo sobre qualidade de software e automação de testes</br>
-* :bulb: Estudando sobre diversos assuntos, especialmente Cypress</br>
+* :bulb: Estou estudando sobre diversos assuntos, especialmente Cypress</br>
 
 ------
 <!--
@@ -29,7 +29,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cciola&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h3>Some tools:<br>
+<h3>Ferramentas:<br>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="45em" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
 <img height="45em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
@@ -62,7 +62,7 @@ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
 <img height="50em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
  
-<h3>Contacts<br><br>
+<h3>Contato:<br>
 <a href="https://www.linkedin.com/in/carol-ciola">
  <img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
