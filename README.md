@@ -1,10 +1,9 @@
 # 👋 Olá, mundo!
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
- 
-Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 
-## Sobre mim 
+## Sobre mim
+* 🙋🏻‍♀️ Sou Carol, apaixonada por música e artes, adoro aprender coisas novas!
 * 👩🏻‍💻 Atualmente sou Analista de Automação de Testes SR @ Núclea</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
