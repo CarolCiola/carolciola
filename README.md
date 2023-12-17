@@ -23,19 +23,22 @@
 <img height="40em" alt="Cucumber"  src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>
 <img height="40em" alt="CSharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img height="40em" alt="NuGet" src="https://www.nuget.org/profiles/nuget/avatar?imageSize=512"/>
+<img height="40em" alt="Specflow" src="https:"/> 
 <img height="40em" alt="Ruby"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="40em" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img height="40em" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
 <img height="40em" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
 <img height="40em" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 <img height="40em" alt="K6" src="https://upload.wikimedia.org/wikipedia/commons/5/54/K6-load-testing-tool-logo.svg"/>
-<img height="40em" alt="JMeter" src="https://jmeter.apache.org/images/logo.svg"/>
+<img height="27em" alt="JMeter" src="https://jmeter.apache.org/images/logo.svg"/>
 <img height="40em" alt="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
 <img height="40em" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height="40em" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 <img height="40em" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img height="40em" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img height="40em" alt="AWS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"/>
+<img height="40em" alt="TestLink" src="https:"/> 
+<img height="40em" alt="Mantis" src="https:"/> 
 <img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
 <img height="40em" alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
 <img height="40em" alt="Swagger" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
@@ -43,6 +46,7 @@
 <img height="40em" alt="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
 <img height="40em" alt="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
 <img height="40em" alt="Confluence" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
+<img height="40em" alt="Zephyr" src="https:"/> 
 <img height="40em" alt="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
 <img height="40em" alt="SQL Server" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
 <img height="40em" alt="MongoDB" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
