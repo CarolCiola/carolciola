@@ -1,9 +1,7 @@
 # 👋 Olá, mundo!
 
-<p>
-<a href="https://www.linkedin.com/in/carol-ciola">
-<img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
+<p align="left">
+<a href="https://www.linkedin.com/in/carol-ciola"><img height="31em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 <a href="mailto:carol.ciola@gmail.com">
 <img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
