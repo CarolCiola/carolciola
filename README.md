@@ -7,14 +7,17 @@
 <img height="31em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
- 
-* 🙋🏻‍♀️ Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas!
+
+### Sobre mim
+Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas! Tenho conhecimentos no ciclo de vida do defeito, elaboração de casos de teste, e execução de testes manuais frontend, backend, mobile e performance. Também tenho experiência em automação de testes frontend e backend, utilização de repositórios e vivência em times ágeis. Já atuei bastante no modelo de processo de qualidade tradicional, e há alguns anos atuo no modelo ágil (*Shift Left*). Minha stack de automação atual é o Cypress.
+
 * 👩🏻‍💻 Atualmente estou trabalhando na [Núclea](https://www.nuclea.com.br/)</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Converse comigo sobre qualidade de software e automação de testes</br>
 * 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
+* 🤭 Curiosidade: não bebo café!
 
-## Tecnologias
+### Tecnologias
 <p>
 <img height="40em" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
 <img height="40em" alt="Cypress" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
