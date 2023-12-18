@@ -9,7 +9,7 @@
 </p>
 
 ### Sobre mim
-Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas! Tenho conhecimentos no ciclo de vida do defeito, elaboração de casos de teste, e execução de testes manuais frontend, backend, mobile e performance. Também tenho experiência em automação de testes frontend e backend, utilização de repositórios e vivência em times ágeis. Já atuei bastante no modelo de processo de qualidade tradicional, e há alguns anos atuo no modelo ágil (*Shift Left*). Minha stack de automação atual é o Cypress.
+Sou a Carol, tenho sólidos conhecimentos no ciclo de vida do defeito, elaboração de casos de teste, e execução de testes manuais frontend, backend, mobile e performance. Também tenho experiência em automação de testes frontend e backend, utilização de repositórios e vivência em times ágeis. Já atuei bastante no modelo de processo de qualidade tradicional, e há alguns anos atuo no modelo ágil (*Shift Left*). Minha stack de automação atual é o Cypress.
 
 * 👩🏻‍💻 Atualmente estou trabalhando na [Núclea](https://www.nuclea.com.br/)</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
@@ -19,15 +19,15 @@ Sou a Carol, apaixonada por música e artes, adoro explorar coisas novas! Tenho 
 
 ### Tecnologias
 <p>
-<img height="40em" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
-<img height="40em" alt="Cypress" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
-<img height="40em" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-<img height="40em" alt="NPM" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
-<img height="40em" alt="Cucumber"  src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>
-<img height="40em" alt="CSharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-<img height="40em" alt="NuGet" src="https://www.nuget.org/profiles/nuget/avatar?imageSize=512"/>
-<img height="40em" alt="Specflow" src="https:"/> 
-<img height="40em" alt="Ruby"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
+<img height="40em" alt="JavaScript" src="https://github.com/cciola/TIL/blob/master/images_devtools/JavaScript.svg"/>
+<img height="40em" alt="Cypress" src="https://github.com/cciola/TIL/blob/master/images_devtools/Cypress.jpeg"/>
+<img height="40em" alt="NodeJS" src="https://github.com/cciola/TIL/blob/master/images_devtools/nodejs.svg"/>
+<img height="40em" alt="NPM" src="https://github.com/cciola/TIL/blob/master/images_devtools/npm.svg"/>
+<img height="40em" alt="Cucumber"  src="https://github.com/cciola/TIL/blob/master/images_devtools/cucumber.svg"/>
+<img height="40em" alt="CSharp" src="https://github.com/cciola/TIL/blob/master/images_devtools/csharp.svg"/>
+<img height="40em" alt="NuGet" src="https://github.com/cciola/TIL/blob/master/images_devtools/nuget.png"/>
+<img height="40em" alt="Specflow" src="https://github.com/cciola/TIL/blob/master/images_devtools/specflow.png"/> 
+<img height="40em" alt="Ruby"  src="https://github.com/cciola/TIL/blob/master/images_devtools/ruby.svg"/>
 <img height="40em" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img height="40em" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
 <img height="40em" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
