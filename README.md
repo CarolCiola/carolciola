@@ -1,15 +1,15 @@
 # 👋 Olá, mundo!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/carol-ciola"><img height="25em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 <a href="mailto:carol.ciola@gmail.com">
-<img height="25em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="22em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ### Sobre mim
-Sou a Carol, tenho sólidos conhecimentos no ciclo de vida do defeito, elaboração de casos de teste, e execução de testes manuais frontend, backend, mobile e performance. Também tenho experiência em automação de testes frontend e backend, utilização de repositórios e vivência em times ágeis. Já atuei bastante no modelo de processo de qualidade tradicional, e há alguns anos atuo no modelo ágil (*Shift Left*). Minha stack de automação atual é o Cypress.
+Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software, estou na área de tecnologia há mais de 10 anos, e atuo como QA Senior. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Há alguns anos atuo no modelo de qualidade ágil (*Shift Left*), e minha stack de automação principal é o Cypress.
 
 * 👩🏻‍💻 Atualmente estou trabalhando na [Núclea](https://www.nuclea.com.br/)</br>
 * 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
@@ -43,16 +43,16 @@ Sou a Carol, tenho sólidos conhecimentos no ciclo de vida do defeito, elaboraç
 <img height="40em" alt="TestLink" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testlink.png"/> 
 <img height="37em" alt="Mantis" src="https://github.com/cciola/TIL/blob/master/images_devtools/Mantis.png"/> 
 <img height="40em" alt="Selenium" src="https://github.com/cciola/TIL/blob/master/images_devtools/Selenium.png"/>
-<img height="40em" alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
-<img height="40em" alt="Swagger" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
-<img height="40em" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-<img height="40em" alt="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
-<img height="40em" alt="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
-<img height="40em" alt="Confluence" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"/>
-<img height="40em" alt="Zephyr" src="https:"/> 
-<img height="40em" alt="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
-<img height="40em" alt="SQL Server" src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"/>
-<img height="40em" alt="MongoDB" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+<img height="40em" alt="Postman" src="https://github.com/cciola/TIL/blob/master/images_devtools/Postman.svg"/>
+<img height="40em" alt="Swagger" src="https://github.com/cciola/TIL/blob/master/images_devtools/Swagger.png"/>
+<img height="40em" alt="VSCode" src="https://github.com/cciola/TIL/blob/master/images_devtools/VSCode.svg"/>
+<img height="40em" alt="Visual Studio" src="https://github.com/cciola/TIL/blob/master/images_devtools/VisualStudio.svg"/>
+<img height="40em" alt="Jira" src="https://github.com/cciola/TIL/blob/master/images_devtools/Jira.svg"/>
+<img height="40em" alt="Confluence" src="https://github.com/cciola/TIL/blob/master/images_devtools/Confluence.svg"/>
+<img height="35em" alt="Zephyr" src="https://github.com/cciola/TIL/blob/master/images_devtools/Zephyr.png"/> 
+<img height="37em" alt="Trello" src="https://github.com/cciola/TIL/blob/master/images_devtools/Trello.svg"/>
+<img height="40em" alt="SQL Server" src="https://github.com/cciola/TIL/blob/master/images_devtools/SQL.svg"/>
+<img height="40em" alt="MongoDB" src="https://github.com/cciola/TIL/blob/master/images_devtools/MongoDB.svg"/>
 
 <br><p>
 
