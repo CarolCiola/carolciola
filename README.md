@@ -33,16 +33,16 @@ Sou a Carol, tenho sólidos conhecimentos no ciclo de vida do defeito, elaboraç
 <img height="40em" alt="HTML" src="https://github.com/cciola/TIL/blob/master/images_devtools/HTML.svg"/>
 <img height="40em" alt="Figma" src="https://github.com/cciola/TIL/blob/master/images_devtools/Figma.svg"/>
 <img height="40em" alt="K6" src="https://github.com/cciola/TIL/blob/master/images_devtools/K6.svg"/>
-<img height="27em" alt="JMeter" src="https://github.com/cciola/TIL/blob/master/images_devtools/Jenkins.svg"/>
+<img height="27em" alt="JMeter" src="https://github.com/cciola/TIL/blob/master/images_devtools/JMeter.svg"/>
 <img height="40em" alt="Git" src="https://github.com/cciola/TIL/blob/master/images_devtools/Git.svg"/>
 <img height="40em" alt="GitHub" src="https://github.com/cciola/TIL/blob/master/images_devtools/Github.svg"/>
 <img height="40em" alt="GitLab" src="https://github.com/cciola/TIL/blob/master/images_devtools/GitLab.svg"/>
 <img height="40em" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img height="40em" alt="Docker" src="https://github.com/cciola/TIL/blob/master/images_devtools/Docker.svg"/>
 <img height="40em" alt="AWS" src="https://github.com/cciola/TIL/blob/master/images_devtools/AWS.svg"/>
-<img height="27em" alt="TestLink" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testlink.png"/> 
-<img height="40em" alt="Mantis" src="https:"/> 
-<img height="40em" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
+<img height="40em" alt="TestLink" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testlink.png"/> 
+<img height="37em" alt="Mantis" src="https://github.com/cciola/TIL/blob/master/images_devtools/Mantis.png"/> 
+<img height="40em" alt="Selenium" src="https://github.com/cciola/TIL/blob/master/images_devtools/Selenium.png"/>
 <img height="40em" alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
 <img height="40em" alt="Swagger" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
 <img height="40em" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
