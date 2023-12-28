@@ -17,7 +17,7 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 * 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
 * 🤭 Curiosidade: não bebo café!
 
-### Tecnologias
+### Tecnologias e ferramentas
 <p>
 <img height="40em" alt="JavaScript" src="https://github.com/cciola/TIL/blob/master/images_devtools/JavaScript.svg"/>
 <img height="40em" alt="Cypress" src="https://github.com/cciola/TIL/blob/master/images_devtools/Cypress.jpeg"/>
