@@ -46,6 +46,7 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 <img height="40em" alt="Selenium" src="https://github.com/cciola/TIL/blob/master/images_devtools/Selenium.png"/>
 <img height="40em" alt="Postman" src="https://github.com/cciola/TIL/blob/master/images_devtools/Postman.svg"/>
 <img height="40em" alt="Swagger" src="https://github.com/cciola/TIL/blob/master/images_devtools/Swagger.png"/>
+  <img height="40em" alt="Testflight" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testflight.png"/>
 <img height="40em" alt="Browserstack" src="https://github.com/cciola/TIL/blob/master/images_devtools/Browserstack.png"/>
 <img height="40em" alt="Android" src="https://github.com/cciola/TIL/blob/master/images_devtools/Android.jpg"/>
 <img height="35em" alt="iOS" src="https://github.com/cciola/TIL/blob/master/images_devtools/iOS.jpg"/>
