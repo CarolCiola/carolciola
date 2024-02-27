@@ -46,7 +46,7 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 <img height="40em" alt="Selenium" src="https://github.com/cciola/TIL/blob/master/images_devtools/Selenium.png"/>
 <img height="40em" alt="Postman" src="https://github.com/cciola/TIL/blob/master/images_devtools/Postman.svg"/>
 <img height="40em" alt="Swagger" src="https://github.com/cciola/TIL/blob/master/images_devtools/Swagger.png"/>
-  <img height="40em" alt="Testflight" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testflight.png"/>
+<img height="40em" alt="Testflight" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testflight.png"/>
 <img height="40em" alt="Browserstack" src="https://github.com/cciola/TIL/blob/master/images_devtools/Browserstack.png"/>
 <img height="40em" alt="Android" src="https://github.com/cciola/TIL/blob/master/images_devtools/Android.jpg"/>
 <img height="35em" alt="iOS" src="https://github.com/cciola/TIL/blob/master/images_devtools/iOS.jpg"/>
@@ -62,7 +62,7 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 <br><p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
