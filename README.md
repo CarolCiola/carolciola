@@ -61,8 +61,12 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 
 <br><p>
 
+<!--
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+-->
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
