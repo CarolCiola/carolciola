@@ -62,7 +62,7 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 <br><p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
