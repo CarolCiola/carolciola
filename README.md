@@ -27,10 +27,10 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 <img height="40em" alt="CSharp" src="https://github.com/cciola/TIL/blob/master/images_devtools/csharp.svg"/>
 <img height="40em" alt="NuGet" src="https://github.com/cciola/TIL/blob/master/images_devtools/nuget.png"/>
 <img height="30em" alt="Specflow" src="https://github.com/cciola/TIL/blob/master/images_devtools/specflow.png"/> 
-<img height="35em" alt="Ruby"  src="https://github.com/cciola/TIL/blob/master/images_devtools/ruby.svg"/>
+<img height="35em" alt="Ruby"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="40em" alt="Python" src="https://github.com/cciola/TIL/blob/master/images_devtools/Python.svg"/>
 <img height="45em" alt="Sikuli" src="https://github.com/cciola/TIL/blob/master/images_devtools/Sikuli.png"/>
-<img height="40em" alt="CSS" src="https://github.com/cciola/TIL/blob/master/images_devtools/CSS.svg"/>
+<img height="40em" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <img height="40em" alt="HTML" src="https://github.com/cciola/TIL/blob/master/images_devtools/HTML.svg"/>
 <img height="40em" alt="Figma" src="https://github.com/cciola/TIL/blob/master/images_devtools/Figma.svg"/>
 <img height="40em" alt="K6" src="https://github.com/cciola/TIL/blob/master/images_devtools/K6.svg"/>
