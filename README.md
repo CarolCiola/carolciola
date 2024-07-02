@@ -1,4 +1,4 @@
-# 👋 Olá, mundo!
+# 👋 Hello world!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -8,16 +8,20 @@
 </a>
 </p>
 
-### Sobre mim
+### About me
+My name is Carol, I have a bachelor's degree in Computer Science, postgraduate degree in Software Quality Engineering. I have been in the technology field for over 10 years, and I work as a Senior QA. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I've been working in the agile quality model (*Shift Left Test*) for a few years, and my main automation stack is Cypress with JavaScript.
+
+<!--
 Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software, estou na área de tecnologia há mais de 10 anos, e atuo como QA Senior. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Há alguns anos atuo no modelo de qualidade ágil (*Shift Left*), e minha stack de automação principal é o Cypress.
+-->
 
-* 👩🏻‍💻 Atualmente estou trabalhando na [Núclea](https://www.nuclea.com.br/)</br>
-* 📚 Tenho alguns artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
-* 💬 Converse comigo sobre qualidade de software e automação de testes</br>
-* 💡 Estou estudando sobre diversos assuntos, especialmente Cypress</br>
-* 🤭 Curiosidade: não bebo café!
+* 👩🏻‍💻 Working at [Núclea](https://www.nuclea.com.br/)</br>
+* 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
+* 💬 Talk to me about software quality and test automation</br>
+* 💡 Studying about several themes, especially Cypress</br>
+* 🤭 Curiosity about me: I don't drink coffee!
 
-### Tecnologias e ferramentas
+### Tools & technologies
 <p>
 <img height="40em" alt="JavaScript" src="https://github.com/cciola/TIL/blob/master/images_devtools/JavaScript.svg"/>
 <img height="40em" alt="Cypress" src="https://github.com/cciola/TIL/blob/master/images_devtools/Cypress.jpeg"/>
