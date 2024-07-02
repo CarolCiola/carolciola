@@ -23,45 +23,45 @@ Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em En
 
 ### Tools & technologies
 <p>
-<img height="40em" alt="JavaScript" src="https://github.com/cciola/TIL/blob/master/images_devtools/JavaScript.svg"/>
-<img height="40em" alt="Cypress" src="https://github.com/cciola/TIL/blob/master/images_devtools/Cypress.jpeg"/>
-<img height="40em" alt="NodeJS" src="https://github.com/cciola/TIL/blob/master/images_devtools/nodejs.svg"/>
-<img height="40em" alt="NPM" src="https://github.com/cciola/TIL/blob/master/images_devtools/npm.svg"/>
-<img height="40em" alt="Cucumber"  src="https://github.com/cciola/TIL/blob/master/images_devtools/cucumber.svg"/>
-<img height="40em" alt="CSharp" src="https://github.com/cciola/TIL/blob/master/images_devtools/csharp.svg"/>
-<img height="40em" alt="NuGet" src="https://github.com/cciola/TIL/blob/master/images_devtools/nuget.png"/>
-<img height="30em" alt="Specflow" src="https://github.com/cciola/TIL/blob/master/images_devtools/specflow.png"/> 
+<img height="40em" alt="JavaScript" src="https://github.com/cciola/images/blob/main/JavaScript.svg"/>
+<img height="40em" alt="Cypress" src="https://github.com/cciola/images/blob/main/Cypress.jpeg"/>
+<img height="40em" alt="NodeJS" src="https://github.com/cciola/images/blob/main/nodejs.svg"/>
+<img height="40em" alt="NPM" src="https://github.com/cciola/images/blob/main/npm.svg"/>
+<img height="40em" alt="Cucumber"  src="https://github.com/cciola/images/blob/main/cucumber.svg"/>
+<img height="40em" alt="CSharp" src="https://github.com/cciola/images/blob/main/csharp.svg"/>
+<img height="40em" alt="NuGet" src="https://github.com/cciola/images/blob/main/nuget.png"/>
+<img height="30em" alt="Specflow" src="https://github.com/cciola/images/blob/main/specflow.png"/> 
 <img height="35em" alt="Ruby"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
-<img height="40em" alt="Python" src="https://github.com/cciola/TIL/blob/master/images_devtools/Python.svg"/>
-<img height="45em" alt="Sikuli" src="https://github.com/cciola/TIL/blob/master/images_devtools/Sikuli.png"/>
+<img height="40em" alt="Python" src="https://github.com/cciola/images/blob/main/Python.svg"/>
+<img height="45em" alt="Sikuli" src="https://github.com/cciola/images/blob/main/Sikuli.png"/>
 <img height="40em" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<img height="40em" alt="HTML" src="https://github.com/cciola/TIL/blob/master/images_devtools/HTML.svg"/>
-<img height="40em" alt="Figma" src="https://github.com/cciola/TIL/blob/master/images_devtools/Figma.svg"/>
-<img height="40em" alt="K6" src="https://github.com/cciola/TIL/blob/master/images_devtools/K6.svg"/>
-<img height="27em" alt="JMeter" src="https://github.com/cciola/TIL/blob/master/images_devtools/JMeter.svg"/>
-<img height="40em" alt="Git" src="https://github.com/cciola/TIL/blob/master/images_devtools/Git.svg"/>
-<img height="40em" alt="GitHub" src="https://github.com/cciola/TIL/blob/master/images_devtools/Github.svg"/>
-<img height="40em" alt="GitLab" src="https://github.com/cciola/TIL/blob/master/images_devtools/GitLab.svg"/>
+<img height="40em" alt="HTML" src="https://github.com/cciola/images/blob/main/HTML.svg"/>
+<img height="40em" alt="Figma" src="https://github.com/cciola/images/blob/main/Figma.svg"/>
+<img height="40em" alt="K6" src="https://github.com/cciola/images/blob/main/K6.svg"/>
+<img height="27em" alt="JMeter" src="https://github.com/cciola/images/blob/main/JMeter.svg"/>
+<img height="40em" alt="Git" src="https://github.com/cciola/images/blob/main/Git.svg"/>
+<img height="40em" alt="GitHub" src="https://github.com/cciola/images/blob/main/Github.svg"/>
+<img height="40em" alt="GitLab" src="https://github.com/cciola/images/blob/main/GitLab.svg"/>
 <img height="40em" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
-<img height="40em" alt="Docker" src="https://github.com/cciola/TIL/blob/master/images_devtools/Docker.svg"/>
-<img height="40em" alt="AWS" src="https://github.com/cciola/TIL/blob/master/images_devtools/AWS.svg"/>
-<img height="40em" alt="TestLink" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testlink.png"/> 
-<img height="37em" alt="Mantis" src="https://github.com/cciola/TIL/blob/master/images_devtools/Mantis.png"/> 
-<img height="40em" alt="Selenium" src="https://github.com/cciola/TIL/blob/master/images_devtools/Selenium.png"/>
-<img height="40em" alt="Postman" src="https://github.com/cciola/TIL/blob/master/images_devtools/Postman.svg"/>
-<img height="40em" alt="Swagger" src="https://github.com/cciola/TIL/blob/master/images_devtools/Swagger.png"/>
-<img height="40em" alt="Testflight" src="https://github.com/cciola/TIL/blob/master/images_devtools/Testflight.png"/>
-<img height="40em" alt="Browserstack" src="https://github.com/cciola/TIL/blob/master/images_devtools/Browserstack.png"/>
-<img height="40em" alt="Android" src="https://github.com/cciola/TIL/blob/master/images_devtools/Android.jpg"/>
-<img height="35em" alt="iOS" src="https://github.com/cciola/TIL/blob/master/images_devtools/iOS.jpg"/>
-<img height="40em" alt="VSCode" src="https://github.com/cciola/TIL/blob/master/images_devtools/VSCode.svg"/>
-<img height="40em" alt="Visual Studio" src="https://github.com/cciola/TIL/blob/master/images_devtools/VisualStudio.svg"/>
-<img height="40em" alt="Jira" src="https://github.com/cciola/TIL/blob/master/images_devtools/Jira.svg"/>
-<img height="40em" alt="Confluence" src="https://github.com/cciola/TIL/blob/master/images_devtools/Confluence.svg"/>
-<img height="35em" alt="Zephyr" src="https://github.com/cciola/TIL/blob/master/images_devtools/Zephyr.png"/> 
-<img height="37em" alt="Trello" src="https://github.com/cciola/TIL/blob/master/images_devtools/Trello.svg"/>
-<img height="40em" alt="SQL Server" src="https://github.com/cciola/TIL/blob/master/images_devtools/SQL.svg"/>
-<img height="40em" alt="MongoDB" src="https://github.com/cciola/TIL/blob/master/images_devtools/MongoDB.svg"/>
+<img height="40em" alt="Docker" src="https://github.com/cciola/images/blob/main/Docker.svg"/>
+<img height="40em" alt="AWS" src="https://github.com/cciola/images/blob/main/AWS.svg"/>
+<img height="40em" alt="TestLink" src="https://github.com/cciola/images/blob/main/Testlink.png"/> 
+<img height="37em" alt="Mantis" src="https://github.com/cciola/images/blob/main/Mantis.png"/> 
+<img height="40em" alt="Selenium" src="https://github.com/cciola/images/blob/main/Selenium.png"/>
+<img height="40em" alt="Postman" src="https://github.com/cciola/images/blob/main/Postman.svg"/>
+<img height="40em" alt="Swagger" src="https://github.com/cciola/images/blob/main/Swagger.png"/>
+<img height="40em" alt="Testflight" src="https://github.com/cciola/images/blob/main/Testflight.png"/>
+<img height="40em" alt="Browserstack" src="https://github.com/cciola/images/blob/main/Browserstack.png"/>
+<img height="40em" alt="Android" src="https://github.com/cciola/images/blob/main/Android.jpg"/>
+<img height="35em" alt="iOS" src="https://github.com/cciola/images/blob/main/iOS.jpg"/>
+<img height="40em" alt="VSCode" src="https://github.com/cciola/images/blob/main/VSCode.svg"/>
+<img height="40em" alt="Visual Studio" src="https://github.com/cciola/images/blob/main/VisualStudio.svg"/>
+<img height="40em" alt="Jira" src="https://github.com/cciola/images/blob/main/Jira.svg"/>
+<img height="40em" alt="Confluence" src="https://github.com/cciola/images/blob/main/Confluence.svg"/>
+<img height="35em" alt="Zephyr" src="https://github.com/cciola/images/blob/main/Zephyr.png"/> 
+<img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/>
+<img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.svg"/>
+<img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/>
 
 <br><p>
 
