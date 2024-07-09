@@ -15,7 +15,7 @@ My name is Carol, I have a bachelor degree in Computer Science, and also postgra
 Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software, estou na área de tecnologia há mais de 10 anos, e atuo como QA Senior. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Há alguns anos atuo no modelo de qualidade ágil (*Shift Left*), e minha stack de automação principal é o Cypress.
 -->
 
-* 👩🏻‍💻 Working at [Núclea](https://www.nuclea.com.br/)</br>
+* 👩🏻‍💻 QA at [Núclea](https://www.nuclea.com.br/)</br>
 * 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Talk to me about software quality and test automation</br>
 * 💡 Studying about several themes, especially Cypress</br>
