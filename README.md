@@ -9,13 +9,13 @@
 </p>
 
 ### About me
-My name is Carol, I have a bachelor degree in Computer Science, and also postgraduate degree in Software Quality Engineering. I've been in the technology field for over 10 years, and I work as a Senior QA. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I work in the agile quality model (*Shift Left Test*) for a few years, and my main automation stack is Cypress with JavaScript.
+Hey! I'm Carol, bachelor degree in Computer Science, and also postgraduate in Software Quality Engineering. I've been in the technology field for over 15 years, working today as Senior QA. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model (*Shift Left Testing*) for a few years, and my main automation stack is Cypress with JavaScript.
 
 <!--
-Meu nome é Carol, sou bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software, estou na área de tecnologia há mais de 10 anos, e atuo como QA Senior. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Há alguns anos atuo no modelo de qualidade ágil (*Shift Left*), e minha stack de automação principal é o Cypress.
+Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software. Estou na área de tecnologia há mais de 15 anos, atuando hoje como QA Senior. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Estou habituada a trabalhar com o modelo de qualidade ágil (*Shift Left Testing*), e minha stack de automação principal é o Cypress com Javascript.
 -->
 
-* 👩🏻‍💻 QA at [Núclea](https://www.nuclea.com.br/)</br>
+* 👩🏻‍💻 Senior QA at [Núclea](https://www.nuclea.com.br/)</br>
 * 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Talk to me about software quality and test automation</br>
 * 💡 Studying about several themes, especially Cypress</br>
