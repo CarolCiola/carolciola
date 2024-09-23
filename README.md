@@ -9,7 +9,7 @@
 </p>
 
 ### About me
-Hey! I'm Carol, I have bachelor's degree in Computer Science, and postgraduate in Software Quality Engineering. I've been in the technology field for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
+Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
 
 <!--
 Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software. Estou na área de tecnologia há mais de 15 anos. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Estou habituada a trabalhar com o modelo de qualidade ágil (*Shift Left Testing*), e minha stack de automação principal é o Cypress com Javascript.
