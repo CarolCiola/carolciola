@@ -38,7 +38,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="40em" alt="HTML" src="https://github.com/cciola/images/blob/main/HTML.svg"/>
 <img height="40em" alt="Figma" src="https://github.com/cciola/images/blob/main/Figma.svg"/>
 <img height="40em" alt="K6" src="https://github.com/cciola/images/blob/main/K6.svg"/>
-<img height="27em" alt="JMeter" src="https://github.com/cciola/images/blob/main/JMeter.svg"/>
+<img height="27em" alt="JMeter" src="https://github.com/cciola/images/blob/main/JMeter.png"/>
 <img height="40em" alt="Git" src="https://github.com/cciola/images/blob/main/Git.svg"/>
 <img height="40em" alt="GitHub" src="https://github.com/cciola/images/blob/main/Github.svg"/>
 <img height="40em" alt="GitLab" src="https://github.com/cciola/images/blob/main/GitLab.svg"/>
