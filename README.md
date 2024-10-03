@@ -30,7 +30,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="40em" alt="Cucumber"  src="https://github.com/cciola/images/blob/main/cucumber.svg"/>
 <img height="40em" alt="CSharp" src="https://github.com/cciola/images/blob/main/csharp.svg"/>
 <img height="40em" alt="NuGet" src="https://github.com/cciola/images/blob/main/nuget.png"/>
-<img height="30em" alt="Specflow" src="https://github.com/cciola/images/blob/main/Specflow2.png"/> 
+<img height="30em" alt="Specflow" src="https://github.com/cciola/images/blob/main/specflow.png"/> 
 <img height="35em" alt="Ruby"  src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/>
 <img height="40em" alt="Python" src="https://github.com/cciola/images/blob/main/Python.svg"/>
 <img height="45em" alt="Sikuli" src="https://github.com/cciola/images/blob/main/Sikuli.png"/>
