@@ -28,6 +28,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="40em" alt="NodeJS" src="https://github.com/cciola/images/blob/main/nodejs.svg"/>
 <img height="40em" alt="NPM" src="https://github.com/cciola/images/blob/main/npm.svg"/>
 <img height="40em" alt="Cucumber"  src="https://github.com/cciola/images/blob/main/cucumber.svg"/>
+<img height="40em" alt="Allure Report"  src="https://github.com/cciola/images/blob/main/Allure.png"/>
 <img height="40em" alt="CSharp" src="https://github.com/cciola/images/blob/main/csharp.svg"/>
 <img height="40em" alt="NuGet" src="https://github.com/cciola/images/blob/main/nuget.png"/>
 <img height="30em" alt="Specflow" src="https://github.com/cciola/images/blob/main/specflow.png"/> 
