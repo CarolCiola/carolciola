@@ -55,6 +55,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="40em" alt="Browserstack" src="https://github.com/cciola/images/blob/main/Browserstack.png"/>
 <img height="40em" alt="Android" src="https://github.com/cciola/images/blob/main/Android.jpg"/>
 <img height="35em" alt="iOS" src="https://github.com/cciola/images/blob/main/iOS.jpg"/>
+<img height="40em" alt="Azure DevOps" src="https://github.com/cciola/images/blob/main/Azure.svg"/> 
 <img height="40em" alt="VSCode" src="https://github.com/cciola/images/blob/main/VSCode.svg"/>
 <img height="40em" alt="Visual Studio" src="https://github.com/cciola/images/blob/main/VisualStudio.svg"/>
 <img height="40em" alt="Jira" src="https://github.com/cciola/images/blob/main/Jira.svg"/>
