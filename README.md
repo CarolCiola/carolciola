@@ -60,7 +60,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="40em" alt="Confluence" src="https://github.com/cciola/images/blob/main/Confluence.svg"/>
 <img height="35em" alt="Zephyr" src="https://github.com/cciola/images/blob/main/Zephyr.png"/> 
 <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/>
-<img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.svg"/>
+<img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/>
 <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/>
 
 <br><p>
